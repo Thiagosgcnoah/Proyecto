@@ -15,10 +15,11 @@
 .Img {
     width: 150px;
     height: 60px;
-    margin-left: 70px;
+    
 
 }
 
 .miFooter {
     background-color: #FFDB1C;
+    margin-left: 70px;
 }
