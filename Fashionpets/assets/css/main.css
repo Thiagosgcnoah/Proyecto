@@ -12,10 +12,57 @@
     background-color: #FFDB1C;
 }
 
+.InisioSesion{
+    border-radius: 10px;
+}
+
+.colorinicio{
+    background-color: #1B3B6F;
+}
+.colorinicio:hover{
+    background-color: #1B3B6F;
+}
+
 .Img {
     width: 150px;
     height: 60px;  
 }
+
+.Pets{
+   padding-left: 25%;
+   padding-right: 25%;
+    
+}
+
+.Pets h3 {
+    color: #1B3B6F;
+}
+
+.tamañof{
+   border-radius: 10px;
+    
+}
+.carrusel{
+    width: 80%;
+    border-radius: 10px;
+}
+.carousel-indicators [data-bs-target] {
+    position: relative;
+    width: 60px;
+    height: 6px;
+    border: none;
+    border-radius: 24px;
+    background-color: #1B3B6F;
+  }
+
+  .btn-color{
+    background-color:#1B3B6F;
+    color: #fafafa;
+  }
+
+  .colorEnviar{
+    background-color: #FFDB1C ;
+  }
 
 .miFooter {
     background-color: #FFDB1C;
